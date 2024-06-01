@@ -8,7 +8,7 @@ Compatible for iOS 14.0 and newer
 ### Feature: 
 - Application Dark Mode
 - Real app experience
-### Up coming updates:
+### Upcoming updates:
 - iOS 13 and lower compability
 - iPad Compability
 - Custom Application Proxy
