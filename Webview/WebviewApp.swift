@@ -8,10 +8,11 @@
 import SwiftUI
 
 @main
-struct WebviewApp: App {
+struct WebViewApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
         }
     }
 }
+
