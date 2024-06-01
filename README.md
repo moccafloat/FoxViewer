@@ -1,13 +1,15 @@
 # FoxViewer
-Made your own iOS WebView app!
+Made your own iOS WebView app! \
+Compatible for iOS 14.0 and newer
+
 
 <img src="https://github.com/moccafloat/FoxViewer/assets/99082628/fbb573d0-2923-4249-a772-790d4f597bfb" width="15%" height="15%">
 
 ### Feature: 
 - Application Dark Mode
-
 - Real app experience
 ### Up coming updates:
+- iOS 13 and lower compability
 - iPad Compability
 - Custom Application Proxy
 - Navigation button (Home, Back, Next)
