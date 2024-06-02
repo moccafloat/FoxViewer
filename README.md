@@ -1,6 +1,6 @@
 # FoxViewer
 Make your own iOS WebView app! \
-Compatible for iOS 14.0 and newer
+Compatible for iOS 14.0 and newer, [FAQ](https://github.com/moccafloat/FoxViewer/blob/main/FAQ.md)
 
 
 <img src="https://github.com/moccafloat/FoxViewer/assets/99082628/fbb573d0-2923-4249-a772-790d4f597bfb" width="15%" height="15%">
