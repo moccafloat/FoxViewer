@@ -1,5 +1,5 @@
 # FoxViewer
-Made your own iOS WebView app! \
+Make your own iOS WebView app! \
 Compatible for iOS 14.0 and newer
 
 
@@ -9,6 +9,7 @@ Compatible for iOS 14.0 and newer
 - Application Dark Mode
 - Real app experience
 ### Upcoming updates:
+- Adblock
 - iOS 13 and lower compability
 - iPad Compability
 - Custom Application Proxy
